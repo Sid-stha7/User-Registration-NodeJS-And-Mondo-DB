@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "axios": "^0.27.2",
+    "bcrypt": "^5.0.1",
+    "joi": "^17.6.0",
+    "joi-password-complexity": "^5.1.0",
+    "jsonwebtoken": "^8.5.1",
+    "r": "^0.0.5",
+    "react-router-dom": "^6.3.0"
+  }
+}
